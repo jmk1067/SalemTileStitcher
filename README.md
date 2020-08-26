@@ -1,4 +1,4 @@
-## Note To Potential Employers
+### Note To Potential Employers
 You may be looking at this script as you review my application, and yes this is just a script for a game, but there is still a lot you can learn from this. First it shows you that I am coding in my free time. Which says I am passionate and self-motivated. Secondly, this script deals with batch processing of images and merging large  datasets, both of which I am sure are relevent skills to the position I applied for. 
 
 # Salem Tile Stitcher
