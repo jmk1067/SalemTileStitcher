@@ -10,7 +10,7 @@ You will need a custom Salem client which saves map tiles such as Taipion's foun
 ## Version 4.4
 Added a default function to automatically choose what needs to be done to make program slightly more user friendly.
 Found an area of redundancy where files were being moved where the folder could simply be renamed to the same affect. In theory breaking the map should be up to 25% faster. 
-Small changes to the percentage function, namely added the ability to call the process seperately in the debugg controls.
+Small changes to the percentage function, namely added the ability to call the process seperately in the debug controls.
 
 ## How to Run
 Simply put this script in the same folder as the maptiles folder and run it. If it is your first time running the program add "0" to the DesiredProcess. 
